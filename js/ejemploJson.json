@@ -1,0 +1,9 @@
+{
+  "nombre": "andres",
+  "productos": [
+    {
+      "nombre": "Coca-cola"
+    }
+  ],
+  "apellido": false
+}
